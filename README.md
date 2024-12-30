@@ -11,7 +11,6 @@
 ## Cronograma 
 
 - [x]  Aula 01 - Apresentação da Disciplina 
-    - Apresentação do Professor e da Disciplina
 - [x]  Aula 02 - Conceitos Fundamentais de Banco de Dados
 - [x]  Aula 03 - Introdução a Modelagem Conceitual 
 - [x]  Aula 04 - Introdução a Modelagem Conceitual
